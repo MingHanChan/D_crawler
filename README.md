@@ -10,6 +10,4 @@
 
 ## Run
 
-    ```sh
     python bot.py
-    ```
