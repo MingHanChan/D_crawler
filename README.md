@@ -10,4 +10,4 @@
 
 ## Run
 
-    python bot.py
+    python crawler.py
